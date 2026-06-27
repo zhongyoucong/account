@@ -1,6 +1,6 @@
 function __vite__mapDeps(indexes) {
   if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["./pages-home-index.Cp40SqYj.js","./_plugin-vue_export-helper.BCo6x5W8.js","./index-DYPBQJJr.css","./pages-stats-index.ClweoX2K.js","./index-CwrKrxbs.css","./pages-record-add.NXwA267T.js","./add-D07lbLAw.css","./pages-calendar-index.yiJTWbSb.js","./index-C-shGK_u.css","./pages-category-manage.CqEqZv8q.js","./manage-CYDbWx-o.css","./pages-category-index.DQVCaYD3.js","./index-BmQPYaAx.css","./pages-record-list.tWepM3dx.js","./list-CyGb1wkp.css","./pages-record-edit.By4ZXna7.js","./edit-B8_M10dQ.css","./pages-record-search.DhI1k1ly.js","./search-CVl7Do6b.css"]
+    __vite__mapDeps.viteFileDeps = ["./pages-home-index.Cp40SqYj.js","./plugin-vue_export-helper.BCo6x5W8.js","./index-DYPBQJJr.css","./pages-stats-index.ClweoX2K.js","./index-CwrKrxbs.css","./pages-record-add.NXwA267T.js","./add-D07lbLAw.css","./pages-calendar-index.yiJTWbSb.js","./index-C-shGK_u.css","./pages-category-manage.CqEqZv8q.js","./manage-CYDbWx-o.css","./pages-category-index.DQVCaYD3.js","./index-BmQPYaAx.css","./pages-record-list.tWepM3dx.js","./list-CyGb1wkp.css","./pages-record-edit.By4ZXna7.js","./edit-B8_M10dQ.css","./pages-record-search.DhI1k1ly.js","./search-CVl7Do6b.css"]
   }
   return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
 }
